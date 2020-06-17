@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/meal-generator/static/css/main.3ceaaf4f.chunk.css",
+    "main.js": "/meal-generator/static/js/main.53b68cff.chunk.js",
+    "main.js.map": "/meal-generator/static/js/main.53b68cff.chunk.js.map",
+    "runtime-main.js": "/meal-generator/static/js/runtime-main.5536caa2.js",
+    "runtime-main.js.map": "/meal-generator/static/js/runtime-main.5536caa2.js.map",
+    "static/js/2.d396a834.chunk.js": "/meal-generator/static/js/2.d396a834.chunk.js",
+    "static/js/2.d396a834.chunk.js.map": "/meal-generator/static/js/2.d396a834.chunk.js.map",
+    "index.html": "/meal-generator/index.html",
+    "precache-manifest.78cc18946bf3a2681254a686ed771530.js": "/meal-generator/precache-manifest.78cc18946bf3a2681254a686ed771530.js",
+    "service-worker.js": "/meal-generator/service-worker.js",
+    "static/css/main.3ceaaf4f.chunk.css.map": "/meal-generator/static/css/main.3ceaaf4f.chunk.css.map",
+    "static/js/2.d396a834.chunk.js.LICENSE.txt": "/meal-generator/static/js/2.d396a834.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5536caa2.js",
+    "static/js/2.d396a834.chunk.js",
+    "static/css/main.3ceaaf4f.chunk.css",
+    "static/js/main.53b68cff.chunk.js"
+  ]
+}
